@@ -103,6 +103,12 @@
       dealing with time in computational models: objects with state, concurrent programming, functional programming and
       lazy evaluation, and nondeterministic programming.
     </li>
+    <li>
+      <a href="https://www.buymeacoffee.com/GoalKickerBooks" target="blank">Goal Kicker</a> - Programming Notes for Professionals books.
+    </li>
+    <li>
+      <a href="https://launchschool.com/books" target="blank">LaunchSchool Books</a> - Below are some books we wrote to supplement the courses at Launch School. Some of the books take a very beginner friendly approach, and are suitable for any level of technical proficiency. Some books may require prerequisite knowledge covered in a Launch School course, and may not be suitable for individual consumption.
+    </li>
   </ol>
 </details>
 
@@ -193,6 +199,15 @@
       <li>
         <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
         Learning is one of the worlds largest course platforms with content being created monthly.
+      </li>      
+      <li>
+        <a href="https://www.educative.io/" target="blank">Educative</a> - Level up your coding skills, quickly and efficiently.
+      </li>
+      <li>
+        <a href="https://thegymnasium.com/" target="blank">Gymnasium</a> - Aquent Gymnasium offers free, online courses for digital, creative, and communications professionals to equip them with in-demand skills and advance their careers.
+      </li>
+      <li>
+        <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
       </li>
     </ol>
   </details>
@@ -336,6 +351,9 @@
       <li>
       <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
       </li>
+            <li>
+      <a href="https://www.edx.org/" target="blank">edX</a> - edX is the trusted platform for education and learning. Founded by Harvard and MIT, edX is home to more than 20 million learners, the majority of top-ranked universities in the world and industry-leading companies.
+      </li>
     </ol>
   </details>
   <details open>
@@ -387,6 +405,9 @@
       <li>
         <a href="https://hashnode.com/" target="blank">HashNode</a> - Hashnode is the easiest way to connect with the
         best developers from around the world and grow your career!
+      </li>
+            <li>
+        <a href="https://www.levels.fyi/" target="blank">levels.fyi</a> - we break down the total compensation packages for multiple levels of software engineers at the largest tech companies.
       </li>
     </ol>
   </details>
@@ -721,6 +742,15 @@
       certifications. Since 2015, 40000 graduates have gotten jobs at tech companies including Google, Apple, Amazon and
       more.
     </li>
+    <li>
+      <a href="https://blog.webdevsimplified.com/" target="blank">Web Dev Simplified</a> - The official Web Dev Simplified blog by Kyle Cook. Short and simple articles on web development.
+    </li>
+    <li>
+      <a href="http://blog.cleancoder.com/" target="blank">Clean Code</a> - Robert Martin's (Uncle Bob) blog.
+    </li>
+    <li>
+      <a href="http://codewall.co.uk/" target="blank">CodeWall</a> - Tutorials and technical articles spanning a range of web development technologies.
+    </li>
   </ol>
 </details>
 
@@ -766,6 +796,9 @@
     <li>
       <a href="https://www.codenewbie.org/podcast">CodeNewbie</a> - CodeNewbie Podcast Stories from people on their
       coding journey.
+    </li>
+    <li>
+      <a href="https://www.redhat.com/en/command-line-heroes">Command Line Heroes</a> - A podcast about the people who transform technology from the command line. Presented by Red Hat.
     </li>
   </ol>
 </details>
@@ -1017,6 +1050,10 @@
     </li>
     <li>
       <a href="https://github.com/badges/shields" target="blank">Shields.io</a> - This is home to Shields.io, a service for concise, consistent, and legible badges in SVG and raster format, which can easily be included in GitHub readmes or any other web page.
+    </li>
+    <li>
+      <a href="https://github.com/ossu/computer-science" target="blank">Open Source Society University
+</a> - The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
     </li>
   </ol>
 </details>
